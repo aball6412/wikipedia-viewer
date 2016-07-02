@@ -1,0 +1,35 @@
+html {
+  background-color: #FAF7F3;
+}
+body {
+  margin: 50px;
+  color: #45828E;
+  background-color: #FAF7F3;
+}
+
+.col-md-4 {
+
+}
+
+.col-md-8 {
+  border-left: solid;
+  border-color: grey;
+  border-width: 1px;
+  min-height: 700px;
+  background-color: #FAF7F3;
+}
+
+.col-md-8 small {
+  font-weight: lighter;
+}
+
+.entry {
+  border-bottom: solid;
+  border-color: grey;
+  border-width: 1px;
+  margin-bottom: 25px;
+  padding-bottom: 15px;
+}
+h4 {
+
+}
